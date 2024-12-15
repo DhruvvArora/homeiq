@@ -1,4 +1,4 @@
-# E-Commerce Store Application
+# E-Commerce Application
 
 ## Overview
 This project is an e-commerce web application built using **React** for the frontend and **Node.js** with **Express** & **Mongo DB** for the backend. It utilizes **PostgreSQL** as the database for storing product, user, and sales data. The application supports user registration and login, product inventory management, sales reporting, and features like a search bar with autosuggestions.
